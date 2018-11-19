@@ -1,6 +1,6 @@
 = WeeChat
-:author: Sébastien Helleu
-:email: flashcode@flashtux.org
+:editor: Deanho09 , Do0911
+:email: khoy0310@naver.com , do0911@naver.com
 :lang: en
 
 
