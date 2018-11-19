@@ -1,6 +1,7 @@
 = WeeChat
 :editor: Deanho09 , Do0911
 :email: khoy0310@naver.com , do0911@naver.com
+:explain: we are gonna modify code associated chatting 
 :lang: en
 
 
